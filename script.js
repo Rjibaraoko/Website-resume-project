@@ -3,7 +3,7 @@ window.addEventListener('scroll', function() {
     const sectionTop = aboutMeSection.getBoundingClientRect().top;
     const windowHeight = window.innerHeight;
 
-    const fadeInThreshold = windowHeight * 0.8; // 80% of the viewport height for fading in
+    const fadeInThreshold = windowHeight * 1; // 80% of the viewport height for fading in
     const fadeOutThreshold = windowHeight * 0.6; // 60% of the viewport height for fading out
     
     if (sectionTop < fadeInThreshold) {
