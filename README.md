@@ -5,3 +5,6 @@ I decided that it was needed to make a website where I can show in a stylish and
 Another thought that came to my mind is that I am a junior pentester enthousiast. Why not combine my coding skills with some CTF construction practice. So I decided to make my resume website into a CTF. There is a hidden secret only visible if you know how to scan, enumerate, exploit and extract information from a target.
 
 Hope you will enjoy my website and if you try to hack it, have fun!
+
+![image](https://github.com/Rjibaraoko/Website-resume-project/assets/22316233/d92f896a-4d34-4bd5-8356-468b22e2a96c)
+
